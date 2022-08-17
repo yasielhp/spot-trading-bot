@@ -12,6 +12,7 @@
 		"axios": "0.26.0",
 		"comma-number": "2.1.0",
 		"dotenv": "16.0.0",
+		"moment": "^2.29.4",
 		"node-binance-api": "0.13.1",
 		"node-storage": "0.0.9",
 		"uuid": "8.3.2",
