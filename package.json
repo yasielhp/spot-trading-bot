@@ -1,6 +1,6 @@
 {
 	"name": "spot-trading-bot",
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -9,13 +9,13 @@
 	"author": "Yasiel Hernández Portal",
 	"license": "ISC",
 	"dependencies": {
-		"axios": "0.26.0",
-		"comma-number": "2.1.0",
-		"dotenv": "16.0.0",
+		"axios": "^0.27.2",
+		"comma-number": "^2.1.0",
+		"dotenv": "^16.0.1",
 		"moment": "^2.29.4",
-		"node-binance-api": "0.13.1",
-		"node-storage": "0.0.9",
-		"uuid": "8.3.2",
-		"web3": "1.7.0"
+		"node-binance-api": "^0.13.1",
+		"node-storage": "^0.0.9",
+		"uuid": "^8.3.2",
+		"web3": "^1.7.5"
 	}
 }
